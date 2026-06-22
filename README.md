@@ -8,7 +8,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="250" src="https://i.imgflip.com/65efzo.gif"  />
+<img width="300" height="300" align="right" alt="Copilot_20260621_203603" src="https://github.com/user-attachments/assets/7fe51941-cbd0-4eeb-b722-fe39c47cddc7" />
 
 ###
 
