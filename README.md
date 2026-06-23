@@ -70,7 +70,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">Stats:</h3>
+<h3 data-importer="text" align="left">Estatísticas:</h3>
 
 ###
 <table border="0" cellspacing="0" cellpadding="0">
