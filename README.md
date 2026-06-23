@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008B8B&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=header"/>
 
 <h1 data-importer="text" align="left">Olá, Bem vind@ ao meu perfil!</h1>
 
@@ -16,21 +16,29 @@
 
 ###
 
-<h3 data-importer="text" align="left">Redes Sociais</h3>
+<h3 data-importer="text" align="left">Contato:</h3>
 
 ###
 
 <div data-importer="socials" align="left">
-  <div align="left">
-  <a href="https://www.linkedin.com/in/acsavicsantana/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  <div align="left" style="display:flex;flex-direction:row;gap:8;align-items:center;">
+    <a href="https://www.linkedin.com/in/acsavicsantana/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:acsajss@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://discord.gg/Acsa Santana">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    </a>
+  </div>
+</div>
   
 </div>
   
 ###
 
-<h3 data-importer="text" align="left">Principais conhecimentos:</h3>
+<h3 data-importer="text" align="left">Habilidades:</h3>
 
 ###
 
@@ -65,10 +73,20 @@
 <h3 data-importer="text" align="left">Stats:</h3>
 
 ###
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td bgcolor="#282a36" align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api?username=acsavicsantana&show_icons=true&theme=dracula&hide_border=true&border_radius=10" alt="GitHub Stats" />
+    </td>
+    <td bgcolor="#282a36" align="center" valign="middle">
+      <a href="https://github.com/acsavicsantana/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acsavicsantana&theme=dracula&hide_border=true&border_radius=10" alt="Top Langs" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/acsavicsantana/acsavicsantana/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/acsavicsantana/acsavicsantana/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  
 </div>
 
 ###
@@ -76,4 +94,4 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008B8B&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=footer"/>
