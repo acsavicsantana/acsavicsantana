@@ -8,7 +8,7 @@
 
 ###
 
-<img width="300" height="300" align="right" alt="https://cl.pinterest.com/pin/628041110573208574/" src="https://github.com/user-attachments/assets/7fe51941-cbd0-4eeb-b722-fe39c47cddc7" />
+<img width="300" height="300" align="right" alt="Copilot_20260621_203603" src="https://github.com/user-attachments/assets/dd33907f-a121-46be-9c92-990d4c89f2cc" />
 
 ###
 
@@ -31,7 +31,7 @@
   </div>
 </div>
   
-</div>
+
   
 ###
 
