@@ -8,11 +8,11 @@
 
 ###
 
-<img width="300" height="300" align="right" alt="Copilot_20260621_203603" src="https://github.com/user-attachments/assets/7fe51941-cbd0-4eeb-b722-fe39c47cddc7" />
+<img width="300" height="300" align="right" alt="https://cl.pinterest.com/pin/628041110573208574/" src="https://github.com/user-attachments/assets/7fe51941-cbd0-4eeb-b722-fe39c47cddc7" />
 
 ###
 
-<p data-importer="text" align="left">- 22 anos de idade<br>- Graduada em Análise e Desenvolvimento de Sistemas<br>- Estudando Análise de Dados<br>- Gosto de ouvir músicas, ler e caminhar<br><br>Espero que goste dos meus projetos!!</p>
+<p data-importer="text" align="left">- Graduada em Análise e Desenvolvimento de Sistemas<br>- Estudando Análise de Dados<br>- Gosto de ouvir músicas, ler e caminhar<br><br>Espero que goste dos meus projetos!!</p>
 
 ###
 
@@ -21,15 +21,12 @@
 ###
 
 <div data-importer="socials" align="left">
-  <div align="left" style="display:flex;flex-direction:row;gap:8;align-items:center;">
+  <div align="left" style="display:flex;flex-direction:row;gap:0;align-items:center;">
     <a href="https://www.linkedin.com/in/acsavicsantana/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="mailto:acsajss@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
-    <a href="https://discord.gg/Acsa Santana">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
     </a>
   </div>
 </div>
